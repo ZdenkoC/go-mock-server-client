@@ -5,7 +5,7 @@ I couldn't find one already that supported the latest version of MockServer. The
 
 ## Installation
 ```shell
-go get github.com/zdenkoC/go-mock-server-client
+go get github.com/zdenkoC/mockServerClient
 ```
 
 ## Usage
